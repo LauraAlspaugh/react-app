@@ -4,7 +4,8 @@ function ListGroup(){
         'Brooklyn',
         'Paris',
         'Tokyo',
-        'Manhattan'
+        'Manhattan',
+        'Denver'
     ]
     return (
         <>
